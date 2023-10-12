@@ -1,0 +1,5 @@
+baseURL = 'http://www.friendly-code.com/'
+theme = 'loveit'
+title = 'Friendly Code'
+languageCode = 'en-us'
+languageName = "English"
